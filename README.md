@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import kernelLog1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@deno/mod.js';
+import kernelLog1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@v0.0.1-deno/mod.js';
 ```
 
 #### kernelLog1p( f )
@@ -83,7 +83,7 @@ v = kernelLog1p( NaN );
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
 import sqrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@deno/mod.js';
-import kernelLog1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@deno/mod.js';
+import kernelLog1p from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@v0.0.1-deno/mod.js';
 
 var x = linspace( sqrt( 2.0 ) / 2.0, sqrt( 2.0 ), 100 );
 
