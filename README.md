@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-kernelLog1p = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@umd/browser.js' )
+kernelLog1p = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@v0.0.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var kernelLog1p = require( 'path/to/vendor/umd/math-base-special-kernel-log1p/in
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@v0.0.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -110,7 +110,7 @@ v = kernelLog1p( NaN );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-kernel-log1p@v0.0.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
