@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
 
@@ -50,7 +50,42 @@ No changes reported for this release.
 
 ## 0.0.1 (2024-05-18)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`dc2cd24`](https://github.com/stdlib-js/stdlib/commit/dc2cd2489fc809b2e5cc690f35839f9d35a5c27f) - add `math/base/special/kernel-log1p` [(#2144)](https://github.com/stdlib-js/stdlib/pull/2144)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`dc2cd24`](https://github.com/stdlib-js/stdlib/commit/dc2cd2489fc809b2e5cc690f35839f9d35a5c27f) - **feat:** add `math/base/special/kernel-log1p` [(#2144)](https://github.com/stdlib-js/stdlib/pull/2144) _(by Gunj Joshi, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
