@@ -207,6 +207,12 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/log1p`][@stdlib/math/base/special/log1p]</span><span class="delimiter">: </span><span class="description">evaluate the natural logarithm of 1+x.</span>
+
 </section>
 
 <!-- /.related -->
@@ -281,6 +287,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/log10]: https://github.com/stdlib-js/math-base-special-log10
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/log1p]: https://github.com/stdlib-js/math-base-special-log1p
 
 <!-- </related-links> -->
 
