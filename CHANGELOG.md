@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-11)
+## Unreleased (2025-07-14)
 
 <section class="commits">
 
@@ -12,6 +12,10 @@
 
 <details>
 
+-   [`63895af`](https://github.com/stdlib-js/stdlib/commit/63895af79f949784344eb2332495a1877868f203) - **bench:** update random value generation _(by Karan Anand)_
+-   [`9bfc43a`](https://github.com/stdlib-js/stdlib/commit/9bfc43af9d72d11e40b5b1e6ea14d8d481e2857f) - **test:** remove redundant tolerance checks _(by Karan Anand)_
+-   [`e321e63`](https://github.com/stdlib-js/stdlib/commit/e321e6328843e1b95efa5513d0b750996e687ce4) - **test:** update test description for clarity _(by Karan Anand)_
+-   [`75f9ecd`](https://github.com/stdlib-js/stdlib/commit/75f9ecd35c6d4362e3c789aff3ffd4ed4fdde179) - **docs:** update function description to improve clarity _(by Karan Anand)_
 -   [`46cbdfe`](https://github.com/stdlib-js/stdlib/commit/46cbdfeff1b3f2dc38a442eafaf0cc25239fc518) - **docs:** replace manual `for` loop in examples [(#6639)](https://github.com/stdlib-js/stdlib/pull/6639) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
