@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-07-15)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7662](https://github.com/stdlib-js/stdlib/issues/7662)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`107c8a4`](https://github.com/stdlib-js/stdlib/commit/107c8a4e9d67e2d27db1776a685886bd6c6f5b93) - **chore:** address commit comments for commit `75f9ecd` [(#7673)](https://github.com/stdlib-js/stdlib/pull/7673) _(by Anmol Sah)_
 -   [`63895af`](https://github.com/stdlib-js/stdlib/commit/63895af79f949784344eb2332495a1877868f203) - **bench:** update random value generation _(by Karan Anand)_
 -   [`9bfc43a`](https://github.com/stdlib-js/stdlib/commit/9bfc43af9d72d11e40b5b1e6ea14d8d481e2857f) - **test:** remove redundant tolerance checks _(by Karan Anand)_
 -   [`e321e63`](https://github.com/stdlib-js/stdlib/commit/e321e6328843e1b95efa5513d0b750996e687ce4) - **test:** update test description for clarity _(by Karan Anand)_
@@ -34,8 +47,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Anmol Sah
 -   Athan Reines
 -   Harsh
 -   Karan Anand
