@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-24)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d5da0cb`](https://github.com/stdlib-js/stdlib/commit/d5da0cbb9558361e16b90a5351c04bf4cdc917f7) - **docs:** add introductory text to READMEs [(#14697)](https://github.com/stdlib-js/stdlib/pull/14697) _(by Karan Anand)_
 -   [`fd16a2f`](https://github.com/stdlib-js/stdlib/commit/fd16a2f49cc7f6b16b610dc0b6ce5382d4d9f88f) - **build:** migrate JSDoc linting off removed core rules  [(#10965)](https://github.com/stdlib-js/stdlib/pull/10965) _(by Athan Reines)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 
